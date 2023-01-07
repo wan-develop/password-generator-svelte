@@ -7,7 +7,7 @@ then run the app:
 npm run dev
 ```
 
-This is for compiling into VanillaJs
+Compile The Project into VanilaJs
 ```
 npm run build
 ```
