@@ -90,7 +90,7 @@
 	
 	<button on:click={generateNewPassword}>GENERATE</button>
 	
-    <a id="github-link" href="https://github.com/wan-develop" target="_blank">
+    <a id="github-link" href="https://github.com/wan-develop" target="_blank" rel="noreferrer">
         <h3>My GitHub</h3>
     </a>
 
